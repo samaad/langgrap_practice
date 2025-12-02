@@ -1,0 +1,8 @@
+.env
+.idea
+.ipynb_checkpoints
+.vscode
+.venv
+chatbot.db
+uv.lock
+ __pycache__/
