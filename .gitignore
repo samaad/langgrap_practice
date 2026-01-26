@@ -6,3 +6,6 @@
 chatbot.db
 uv.lock
  __pycache__/
+ai-readme
+chatbot.db-shm
+chatbot.db-wal
